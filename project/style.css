@@ -1,0 +1,5 @@
+.bg-img{
+    background: url(photo/orange-background.jpg);
+     background-size: cover;
+ height: 600px;
+}
